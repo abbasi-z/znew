@@ -1,0 +1,29 @@
+{
+  "version": 24,
+  "signature": "your-signature-string",
+  "link": "https://github.com/sohailkalhoro123/Czv3/raw/refs/heads/main/CricZ%20TV_3.0.apk",
+  "webLink": "https://cricztv.live/",
+  "message": "Update available!",
+  "size": "12.5 MB",
+  "website": "https://cricztv.live/",
+  "ads": {
+    "start": {
+      "unit": "test",
+       "enabled": false,
+       "ad1": false,
+       "ad2": false
+     },
+    "unity": {
+      "unit": "test",
+       "enabled": false,
+       "ad1": false,
+       "ad2": false
+     },
+   "banner": {
+     "image": "test",
+     "link": "test",
+      "enabled", false
+    }
+  },
+  "hash": "abc123hashvalue"
+}
